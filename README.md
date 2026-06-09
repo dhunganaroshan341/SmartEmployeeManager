@@ -79,7 +79,7 @@ Follow the steps below to set up and run the Employee Management System on your 
 2.  **Clone the Repository**: Clone this repository to your server or local development environment.
 
     ```bash
-    https://github.com/Prakash0604/EmployeePayrollManagement.git
+    https://github.com/dhunganaroshan341/SmartEmployeeManager.git
 
     ```
 
